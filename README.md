@@ -1,4 +1,4 @@
-# Projetos-Pessoais
+# Projetos Pessoais
 ### Esta é uma lista de projetos pessoais
 * React Form [código no github](https://github.com/r-santtos/React-Form)
 * Palavras Cruzadas [código no github](https://github.com/r-santtos/Palavras-Cruzadas)
