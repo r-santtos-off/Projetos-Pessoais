@@ -1,5 +1,6 @@
 # Projetos Pessoais
 ### Esta é uma lista de projetos pessoais
+* Controle Financeiro App React Native [código no github](https://github.com/r-santtos/Aplicativo-Para-Controle-Financeiro-Pessoal)
 * Mobile / Web / Desktop [código no github](https://github.com/r-santtos/Mobile-Web-Desktop)
 * React Form [código no github](https://github.com/r-santtos/React-Form)
 * Palavras Cruzadas [código no github](https://github.com/r-santtos/Palavras-Cruzadas)
@@ -7,7 +8,11 @@
 * Controle Financeiro [código no github](https://github.com/r-santtos/Controle-Financeiro)
 ******
 ******
-
+# Controle Financeiro App React Native
+## Telas de um aplicativo financeiro para controlar a entrada de ativos e a saída de passivos, o layout básico para estudo foi retirado do aplicativo Mobills da Mobills Inc.
+![Mobile Web Desktop](https://github.com/r-santtos/Aplicativo-Para-Controle-Financeiro-Pessoal/blob/master/Financeiro.jpg?raw=true?raw=true "Mobile Web Desktop")
+******
+******
 # Mobile / Web / Desktop
 ## Estudando JavaScript e desenvolvendo três projetos front-end: Mobile com React Native, Web com React e Desktop com Electron
 ![Mobile Web Desktop](https://github.com/r-santtos/Mobile-Web-Desktop/blob/master/screens/mobile-web-desktop.jpg?raw=true?raw=true "Mobile Web Desktop")
